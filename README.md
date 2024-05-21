@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameya Limaye
 - 👀 I’m interested in learning new tools.
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Nextwave 2.0 Course
 - 📫 How to reach me ... +918007479911
 
 <!---
